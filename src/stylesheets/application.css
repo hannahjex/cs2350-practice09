@@ -11,3 +11,7 @@
 footer{
   background-color: black;
 }
+
+.card img{
+  width: 100%;
+}
